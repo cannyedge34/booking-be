@@ -1,6 +1,10 @@
-# README
+# Booking System Backend
 
-Booking system example (backend)
+Frontend https://github.com/cannyedge34/booking-fe
+
+Demo video example: https://youtu.be/t5Da7pjj6Cw
+
+![Alt Text](booking.gif)
 
 # EXAMPLES
 With no filter
